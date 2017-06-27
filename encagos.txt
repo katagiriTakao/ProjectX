@@ -1,0 +1,5 @@
+elementos visuales que faltan:
+  pantalla de inicio:
+    *logo del juego
+    *fondo del juego
+    *textura del boton de inicio(la textura que van a tener todos los botones)
